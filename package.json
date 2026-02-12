@@ -1,0 +1,24 @@
+{
+  "name": "literate-fortnight-yar",
+  "version": "1.0.0",
+  "description": "Cumbie full rebuild of devops ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycumbie/literate-fortnight-yar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/barrycumbie/literate-fortnight-yar/issues"
+  },
+  "homepage": "https://github.com/barrycumbie/literate-fortnight-yar#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
