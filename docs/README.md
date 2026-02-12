@@ -16,7 +16,7 @@ Cumbie full rebuild of devops ci/cd
 - enable http & https, get a static external ip  
 
 
-###full stack walk through two of three | 34:25
+### full stack walk through two of three | 34:25
 <a href="https://youtu.be/19nzDPMVmPg" target="_blank">https://youtu.be/19nzDPMVmPg</a>
 - update DNS with subdomain, marked in readme.
 - ssh cloud, gen a key, put in gcp vm instance, put in gh secrets
@@ -29,8 +29,6 @@ Cumbie full rebuild of devops ci/cd
 ### full stack walk through three of three | 8:15
 <a href="https://youtu.be/U4QUbJYXXSg" target="_blank">https://youtu.be/U4QUbJYXXSg</a>
 - set up cd workflow
-
-
 
 ## infrastrucutre 
 
