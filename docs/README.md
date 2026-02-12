@@ -4,7 +4,7 @@ Cumbie full rebuild of devops ci/cd
 ## walkthrough videos (how this repo/app was made) 
 
 ### full stack walk through one of three | 16:30
-> https://youtu.be/YqFhC7tRiMI
+<a href="https://youtu.be/YqFhC7tRiMI" target="_blank">https://youtu.be/YqFhC7tRiMI</a>
 - from a new gh repo (readme, node .gitignore, & license), 
 - to git clone & code ., 
 - npm init -y with simple express server & test local 
@@ -17,7 +17,7 @@ Cumbie full rebuild of devops ci/cd
 
 
 ###full stack walk through two of three | 34:25
-> https://youtu.be/19nzDPMVmPg
+<a href="https://youtu.be/19nzDPMVmPg" target="_blank">https://youtu.be/19nzDPMVmPg</a>
 - update DNS with subdomain, marked in readme.
 - ssh cloud, gen a key, put in gcp vm instance, put in gh secrets
 - in ssh, update machine and install packages 
@@ -27,7 +27,7 @@ Cumbie full rebuild of devops ci/cd
 - install & config ssl cert
 
 ### full stack walk through three of three | 8:15
-> https://youtu.be/U4QUbJYXXSg
+<a href="https://youtu.be/U4QUbJYXXSg" target="_blank">https://youtu.be/U4QUbJYXXSg</a>
 - set up cd workflow
 
 
