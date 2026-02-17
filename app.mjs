@@ -3,7 +3,9 @@ import express from 'express'
 const app = express()
 
 app.get('/', (req, res) => {
-  res.send('Barry says hello from: <a href="https://github.com/barrycumbie/literate-fortnight-yar/tree/dev" target="blank">literate fortnight yar | dev</a>')
+
+  res.send('this is my best code with mongo .... ')
+
 })
 
 app.listen(3000, () => {
