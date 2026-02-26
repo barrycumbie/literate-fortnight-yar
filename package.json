@@ -2,8 +2,9 @@
   "name": "literate-fortnight-yar",
   "version": "1.0.0",
   "description": "Cumbie full rebuild of devops ci/cd",
-  "main": "index.js",
+  "main": "app.mjs",
   "scripts": {
+    "dev": "node app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,9 @@
   },
   "homepage": "https://github.com/barrycumbie/literate-fortnight-yar#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "nodemon": "^3.1.14"
   }
 }
