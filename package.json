@@ -4,7 +4,7 @@
   "description": "Cumbie full rebuild of devops ci/cd",
   "main": "app.mjs",
   "scripts": {
-    "dev": "node app.mjs",
+    "dev": "nodemon app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
